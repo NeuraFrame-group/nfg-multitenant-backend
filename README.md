@@ -40,7 +40,7 @@ Voir `/docs/ARCHITECTURE.md` pour une vue globale.
 
 > Code complet disponible sur demande.
 
-## How to read this repository
+## Comment lire ce dépôt
 
 - `src/` contient des exemples de structure backend et de composants techniques
 - `docs/` décrit les choix d’architecture et les principes de conception
@@ -51,7 +51,7 @@ L’objectif est de montrer la logique, l’architecture et le raisonnement back
 pas de fournir une application prête à déployer.
 
 
-## Ongoing & Private Projects
+## Projets en cours et privés
 
 Certaines briques techniques ne sont pas exposées publiquement
 (car en cours de développement ou confidentielles), notamment :
@@ -62,3 +62,4 @@ Certaines briques techniques ne sont pas exposées publiquement
 - Agents IA pour prise de rendez-vous automatisée (fine-tuning LoRA)
 
 Ces sujets peuvent être détaillés en entretien.
+
