@@ -17,12 +17,18 @@ Le code présenté est une **version démonstrative**, extraite et simplifiée d
 - Jobs asynchrones (cron)
 - Sécurité & audit
 
-## Stack technique
-- PHP 8.x
+## Stack technique principale
+- PHP 8.x (backend, API, automatisation)
 - MySQL
+- REST JSON API
 - JWT (HS256)
 - AES-256-GCM
-- REST JSON API
+
+## Technologies complémentaires
+- Java (services backend, logique applicative)
+- JavaScript / TypeScript
+- React (UI découplée, SPA)
+- Intégration frontend ↔ API
 
 ## Structure
 Voir `/docs/ARCHITECTURE.md` pour une vue globale.
