@@ -70,7 +70,8 @@ Pour une vue d’ensemble, commencer par :
 
 ## À propos de l’exécution
 
-Le code est **volontairement non exécutable tel quel**.
+Le cœur du système présenté est **volontairement non exécutable tel quel**.
+Une démo backend exécutable et isolée est disponible dans le dossier `executable-demo/`.
 
 Ce dépôt est **architecture-first** :
 - montrer comment le système est pensé
@@ -101,3 +102,4 @@ Le code présenté vise à démontrer une **approche professionnelle du backend*
 architecture, sécurité, automatisation et cohérence fonctionnelle.
 
 Le **code complet et exécutable** est disponible sur demande.
+
